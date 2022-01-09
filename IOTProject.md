@@ -60,8 +60,8 @@ uvicorn app:app --reload --host [IPv4 address]
 1. ```Visualization.java```:
    * Line 60 & 61: Change insole mac address (Can be found by checking Bluetooth settings on any device).
    * Line 246 & 370: Change to current IPv4 address.
-2. ```BLUNO APP FILENAME```:
-   * Line X: Change to current IPv4 address.
+2. ```BLUNO (MainActivity.java)```:
+   * Line 177: Change to current IPv4 address.
 
 ## Contributions
 * Data Collection: 蔡孝龍 F74077120
